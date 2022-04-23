@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #hero .hero-container {
-    margin: 0px 19px 0px 0px;
+    margin: 0px 0px 0px 100px;
     position: relative;
     z-index: 0;
     min-width: 450px;
