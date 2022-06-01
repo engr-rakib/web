@@ -597,6 +597,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  
 }
 
 .portfolio .portfolio-wrap::before {
@@ -610,6 +611,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+  
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
@@ -622,6 +624,7 @@ section {
   transition: all ease-in-out 0.3s;
   display: flex;
   justify-content: center;
+  
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
@@ -631,6 +634,7 @@ section {
   background: #ed4f00;
   transition: 0.3s;
   width: 50%;
+  
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
@@ -639,6 +643,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #37b3ed;
+  
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -713,14 +718,17 @@ section {
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  text-align: center;
+  text-align: left;
   min-height: 320px;
+  margin: 0 12px 12px 12px;
 }
+
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
+
 }
 
 .testimonials .testimonial-item h3 {
