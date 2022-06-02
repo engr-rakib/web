@@ -1198,15 +1198,15 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+  padding: 10px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 8px;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #02070e;
+  /* background: #02070e; */
 }
 
 #footer .copyright {
@@ -1216,7 +1216,7 @@ section {
 #footer .credits {
   padding-top: 5px;
   text-align: center;
-  font-size: 13px;
+  font-size: 8px;
   color: #eaebf0;
 }
 
