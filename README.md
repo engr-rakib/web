@@ -11,3 +11,4 @@ He has good knowledge of computer networking & design, IT Hardware and Software 
 escalation procedures. In addition to this he has vast experience of addressing a variety of hardware, software, and communications malfunctions.
 
 This is his personal web site deployed by him with his own creativity.
+If you have any Quires you can mailed me on - rakibcs29@gmail.com
