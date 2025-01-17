@@ -1,10 +1,5 @@
-# “Hello Fellas! this is Rakibuzzaman. He is from Bangladesh.
-Rakibuzzaman is studying in Jahangirnagar University (JU) for receiving the degree of Professional Master of Science in Computer Science [MSC]. 
-He has completed Bachelor of Engineering degree in 2021 from Daffodil International University.
-Recently he got hired by a renowned IT company named Multi-National IT Solution Ltd.(MITSL) as Technical Operations Officer.
-He have been working with the company from 06 April to 30 September 2021. He has learned the ins and outs of IT operations in his journey from a fresher
-to a Technical Officer.From his previous experience, he is more than ecstatic to disclose to you that he was honored with an enviable position(VP) at
-Daffodil International University Robotics Club.”
+As-salamu alaykum! Rakibuzzaman is a dedicated IT professional from Bangladesh with a strong academic background and a passion for technology. He holds a Professional Master of Science in Computer Science (M.Sc.) from Jahangirnagar University (JU), achieved in 2023, and a Bachelor of Engineering in Computer Science and Engineering from Daffodil International University, completed in 2021.
+Currently, Rakibuzzaman is contributing his expertise as a Server Administrator in the Server and Network Infrastructure Department of ICT at Walton Hi-Tech Industries PLC , where he serves as a Principal Officer. In this role, he specializes in server virtualization, automation, and managing enterprise-grade IT infrastructure. His responsibilities include configuring and maintaining Active Directory, DNS, Microsoft Exchange, file servers, and storage systems, with a focus on creating efficient and secure environments. His commitment to leveraging technology for organizational growth and operational excellence reflects his deep understanding of IT systems and infrastructure.
 
 Rakibuzzaman has the ability to solve user problems, explain complex issues clearly to users and maintain optimum systems availability. 
 He has good knowledge of computer networking & design, IT Hardware and Software packages and is an expert at resolving issues using proper
